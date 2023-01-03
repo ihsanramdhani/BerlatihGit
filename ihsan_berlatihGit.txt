@@ -1,3 +1,4 @@
 Nama: Ihsan Nafilah RAmdhani
 Stack: Backend
+Deskripsi: Programming ini menjawab hal-hal ajaib yang terjadi di belakang layar
 Hobi: Membaca dan Menonton Youtube

@@ -1,1 +1,1 @@
-print("hello dari komputer B")
+print("hello dari komputer A")
